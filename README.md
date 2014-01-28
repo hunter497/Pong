@@ -1,6 +1,3 @@
-libgdx-gradle-template
-======================
-
 ## Notice Jan-14-2014
 This incarnation of the Gradle Template is no longer under active development. Further work is being done in
 the main [libgdx](https://github.com/libgdx/libgdx) project/repo. If you'd like to contribute, you'll find development
